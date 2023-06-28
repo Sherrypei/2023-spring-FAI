@@ -1,2 +1,29 @@
-# 2023-spring-FAI
-2023-Spring, Foundations of Artificial Intelligence
+
+# NTU-FAI2023
+
+This is my operating system programming homework projects.
+
+1. csiebooking
+    - file locking
+    - select multiplexing
+    - socket communication
+
+2. pvp-championship
+    - pid, fork
+    - pipe / fifo
+    - dup2
+    - execl
+    - wait
+
+3. simple-movies-recommendation-system
+    - fork
+    - mmap shared memory
+    - memcpy
+    - pthread_create, pthread_join
+
+4. thread-library
+    - signal handling (sigprocmask, sigemptyset, sigaddset)
+    - alarm
+    - setjmp / longjmp
+    - select multiplexing
+
